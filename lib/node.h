@@ -27,6 +27,7 @@
 #include <QMutex>
 
 #include "fastapprox/fastlog.h"
+#include "fastapprox/fastlogit.h"
 #include "game.h"
 #include "move.h"
 #include "notation.h"
