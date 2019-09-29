@@ -47,5 +47,5 @@
 
 static inline float 
 fastlogit(const float a) {
-  return 0.5f * fastlog:((1.0f + a) / (1.0f - a));
+  return 0.5f * fastlog((1.0f + a) / (1.0f - a));
 }
